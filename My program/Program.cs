@@ -4,4 +4,6 @@
 // либо задать на старте выполнения алгоритма. При решении не рекомендуется пользоваться 
 // коллекциями, лучше обойтись исключетельно массивами. 
 
-Console.WriteLine("Hello, World!");
+string[] array1 = new string[5] {"Peace", "World", "War", "2022", "Me"}; // Инициализируем массив
+string[] array2 = new string[array1.Length];
+
